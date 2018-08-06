@@ -1,0 +1,6 @@
+# NOTE: All files in the "2017eve" directory are directly downloaded from https://www.retrosheet.org/game.htm without modification
+# Files in "2017eve-linux" have been modified to remove Windows line endings for better parsing with perl on Linux
+# >mkdir 2017eve-linux
+# >cp -R 2017eve 2017eve-linux
+# >cd 2017eve-linux
+# >dos2unix *
