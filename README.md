@@ -1,6 +1,6 @@
 # retrosheet-perl
 
-Code last updated @ [2018-08-06](https://github.com/GrantKlassy/retrosheet-perl/commits/main)
+Code last updated @ [2026-04-20](https://github.com/GrantKlassy/retrosheet-perl/commits/main)
 
 A retrosheet parser written in perl. Includes a perl module to parse files and an example script which uses the module.
 
