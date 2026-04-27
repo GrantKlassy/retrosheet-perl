@@ -1,3 +1,5 @@
+[![Sponsor GrantKlassy](https://img.shields.io/badge/Sponsor-GrantKlassy-ea4aaa?logo=github-sponsors&logoColor=white&style=for-the-badge)](https://github.com/sponsors/GrantKlassy)
+
 # retrosheet-perl
 
 Code last updated @ [2026-04-20](https://github.com/GrantKlassy/retrosheet-perl/commits/main)
